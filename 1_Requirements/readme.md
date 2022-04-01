@@ -6,6 +6,7 @@
 4. Display Account information
 5. Logout
 6. Clearing the output screen and display available options
+7. # 4W's and 1H's
 # Who
 This bank application system is used by the bank employe's ...
 # What
