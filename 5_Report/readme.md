@@ -8,7 +8,7 @@
 6. Clearing the output screen and display available options
 ## Project SWOT analysis
 <br />
-**Strengths**
+# Strengths
 It is a user friendly and allow to do task quickly in efficient manner and rather than spending a time with lots of calculation employee can do task using this application in this in minutes
 <br />
 **Weakness**
