@@ -7,16 +7,17 @@
 5. Logout
 6. Clearing the output screen and display available options
 ## Project SWOT analysis
+<br />
 **Strengths **
 It is a user friendly and allow to do task quickly in efficient manner and rather than spending a time with lots of calculation employee can do task using this application in this in minutes
-a<br />
+<br />
 **Weakness**
-Coverage in Rural areas
+Coverage in Rural areas <br />
 It does not include all the operation
 
 **Opportunities**
 World is goings towards machine platform because its save time so this application is very useful for every bank and it's save time and do many task,For rural growth
 
 **Threats**
-The growth may be effected due to external factors or slow improvement in technology
+The growth may be effected due to external factors or slow improvement in technology <br />
 competition stiff
