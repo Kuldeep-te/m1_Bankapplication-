@@ -193,7 +193,7 @@ void Cash_Deposit()
 
 void Cash_withdrawl()
 {
-   auto int acc_no;
+   int acc_no;
    float withdraw_money;
 
    printf("Enter account number you want to withdraw money:");
